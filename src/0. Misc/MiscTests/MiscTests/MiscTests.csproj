@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OOP\NewVsOverrideBehavior.cs" />
     <Compile Include="StringParsing\ConvertFloatingPointNumbers_FromString.cs" />
     <Compile Include="StringParsing\ConvertFloatingPointNumbers_ToString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
