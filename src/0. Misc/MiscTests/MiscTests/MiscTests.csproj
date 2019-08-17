@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Disposing\NotDisposingStreamReadersTest.cs" />
+    <Compile Include="LoopPerformance\LoopPerformanceTests.cs" />
     <Compile Include="OOP\NewVsOverrideBehavior.cs" />
     <Compile Include="StringParsing\ConvertFloatingPointNumbers_FromString.cs" />
     <Compile Include="StringParsing\ConvertFloatingPointNumbers_ToString.cs" />
